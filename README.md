@@ -44,7 +44,12 @@ Sus métodos permiten añadir productos, calcular el total sumando el importe de
 *
 *
 *
+Clase Usuario 
+Representa a un usuario de la tienda mediante las propiedades nombre, correo y carrito. 
 
+Su método agregarProductoAlCarrito() permite añadir productos al carrito del usuario.
+
+Su método finalizarCompra() calcula y muestra el importe total de la compra y, después, vacía el carrito.
 
 5. Funcionamiento del programa
 
