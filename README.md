@@ -35,9 +35,12 @@ Representa un producto mediante tres propiedades: nombre, precio y cantidad.
 
 Su método calcularTotal() multiplica el precio por la cantidad para obtener el importe total del producto.
 
-*
-*
-*
+Clase Carrito
+
+Representa el carrito de la compra mediante una lista de productos.
+
+Sus métodos permiten añadir productos, calcular el total sumando el importe de cada uno y vaciar el carrito por completo.
+
 *
 *
 *
